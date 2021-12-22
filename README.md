@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ysisrich/ysisrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>努力挣钱，争取能在泡面里放心大胆的加根鸡肉味火腿肠
 
 Here are some ideas to get you started:
 
