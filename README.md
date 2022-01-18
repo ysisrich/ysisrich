@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 😗 电影emo：http://emo.yangsong.cool
 - 🤔 个人博客：http://blog.yangsong.cool
 
+![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
 
