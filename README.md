@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
 
 
-[![Anurag](https://github-readme-stats.vercel.app/api?username=ysisrich&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag](https://github-readme-stats.vercel.app/api?username=ysisrich&theme=radical&hide_title)](https://github.com/anuraghazra/github-readme-stats)
 
 
