@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 😗 电影emo：http://emo.yangsong.cool
 - 🤔 个人博客：http://blog.yangsong.cool
 
+
+
+[![Anurag](https://github-readme-stats.vercel.app/api?username=ysisrich&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
-
-
-[![Anurag](https://github-readme-stats.vercel.app/api?username=ysisrich&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
