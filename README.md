@@ -16,13 +16,14 @@ Here are some ideas to get you started:
     <img  style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=tokyonight&hide_title=true&locale=cn&show_icons=true&line_height=22&hide_border=true" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
 </p>
-
-<a href="https://github.com/ysisrich/niubilityUI">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ysisrich/personal-navigation">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
-</a>
+<p align="left">
+    <a href="https://github.com/ysisrich/niubilityUI">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
+    </a>
+    <a href="https://github.com/ysisrich/personal-navigation">
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
+    </a>
+</p>
 
 
 <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
