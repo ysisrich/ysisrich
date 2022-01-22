@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 🤔 个人博客：http://blog.yangsong.cool
 
 ![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
