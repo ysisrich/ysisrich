@@ -17,17 +17,11 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
 </p>
 
-<p align="left" style="display:flex">
-    <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
-    <div >
-        <a href="https://github.com/ysisrich/niubilityUI">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
-        </a>
-        <a href="https://github.com/ysisrich/personal-navigation">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
-        </a>
-    </div>
-</p>
+<a href="https://github.com/ysisrich/niubilityUI">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ysisrich/personal-navigation">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
+</a>
 
-
-
+<img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
