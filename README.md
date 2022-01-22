@@ -23,9 +23,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/ysisrich/niubilityUI">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
         </a>
-        <a href="https://github.com/ysisrich/personal-navigatio">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
-        </a>
     </div>
 </p>
 
