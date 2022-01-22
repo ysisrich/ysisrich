@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left" style="display:flex">
-    <img style="float:left" src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
+    <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
     <div >
         <a href="https://github.com/ysisrich/niubilityUI">
-          <img style="width:300px" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
+          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
         </a>
         <a href="https://github.com/ysisrich/personal-navigation">
-          <img style="width:300px" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
+          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
         </a>
     </div>
 </p>
