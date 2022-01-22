@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 🤔 个人博客：http://blog.yangsong.cool
 
 
-<style>
-    .a-hover:hover{
-        text-decoration: none;
-    }    
-</style>
-
-
 <p align="left">
     <img  style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=tokyonight&hide_title=true&locale=cn&show_icons=true&line_height=22&hide_border=true" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
