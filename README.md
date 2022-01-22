@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <a href="https://github.com/ysisrich">
     <img  style="width:450px;" align="center" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=tokyonight&hide_title=true&locale=cn&show_icons=true&line_height=22&hide_border=true" />
-  </a>
-  <a href="https://github.com/ysisrich">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
-  </a>
 </p>
 
 ![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
