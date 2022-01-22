@@ -26,5 +26,4 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-
 <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
