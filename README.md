@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <p align="left" style="display:flex">
     <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
-    <div style="width:200px">
+    <div >
         <a href="https://github.com/ysisrich/niubilityUI">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
+          <img style="width:200px" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
         </a>
         <a href="https://github.com/ysisrich/personal-navigation">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
+          <img style="width:200px" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
         </a>
     </div>
 </p>
