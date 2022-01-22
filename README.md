@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left" style="display:flex">
     <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
-    <div>
+    <div style="width:200px">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
         </a>
