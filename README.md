@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 个人博客：http://blog.yangsong.cool
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="width:400px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=aura&hide_title=true&locale=cn&show_icons=true&line_height=20" />
   </a>
