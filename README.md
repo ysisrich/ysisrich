@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Anurag](https://github-readme-stats.vercel.app/api?username=ysisrich&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif)
 
