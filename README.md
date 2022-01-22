@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <a href="https://github.com/ysisrich" style="width:200px">
+  <a href="https://github.com/ysisrich" style="width:200px;display:inline-block;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=aura&hide_title=true&locale=cn&show_icons=true&line_height=20&hide_border=true" />
   </a>
   <a href="https://github.com/ysisrich">
