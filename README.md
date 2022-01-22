@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="width:200px">
+  <a href="https://github.com/ysisrich" style="width:200px">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysisrich&theme=aura&hide_title=true&locale=cn&show_icons=true&line_height=20&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/ysisrich">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
   </a>
 </p>
