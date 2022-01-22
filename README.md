@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left" style="display:flex">
-    <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
+    <img style="float:left" src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
     <div >
         <a href="https://github.com/ysisrich/niubilityUI">
           <img style="width:300px" src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
