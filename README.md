@@ -18,6 +18,8 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&hide_title=true&hide_border=true&bg_color=0,FA8BFF,2BD2FF,2BFF88" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=ysisrich)
+
 <!-- <p align="left">
     <a class="a-hover" href="https://github.com/ysisrich/niubilityUI">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=emo&theme=tokyonight&hide_border=true" />
