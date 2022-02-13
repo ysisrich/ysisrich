@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 <div align="center" style="margin:20px">
-    <img src="https://komarev.com/ghpvc/?username=ysisrich&color=#21D4FD" />
+    <img src="https://komarev.com/ghpvc/?username=ysisrich&color=21D4FD" />
 </div>
 
 
