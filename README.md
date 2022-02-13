@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👯 个人论坛：http://bbs.yangsong.cool/
 - 😗 电影emo：http://emo.yangsong.cool
 - 🤔 个人博客：http://blog.yangsong.cool
+- 📆 git图床：http://ibed.yangsong.cool
 
 
 <p align="left">
@@ -19,10 +20,10 @@ Here are some ideas to get you started:
 
 <p align="left">
     <a class="a-hover" href="https://github.com/ysisrich/niubilityUI">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=niubilityUI&theme=tokyonight&hide_border=true" />
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=emo&theme=tokyonight&hide_border=true" />
     </a>
     <a class="a-hover" href="https://github.com/ysisrich/personal-navigation">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=personal-navigation&theme=tokyonight&hide_border=true" />
+      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=picture-bed&theme=tokyonight&hide_border=true" />
     </a>
 </p>
 
