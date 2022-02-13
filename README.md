@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😗 电影emo：http://emo.yangsong.cool
 - 🤔 个人博客：http://blog.yangsong.cool
 - 📆 git图床：http://ibed.yangsong.cool
-background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
 
 
 <p align="left">
@@ -19,13 +18,13 @@ background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&hide_title=true&hide_border=true&bg_color=0,FA8BFF,2BD2FF,2BFF88" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
     <a class="a-hover" href="https://github.com/ysisrich/niubilityUI">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=emo&theme=tokyonight&hide_border=true" />
     </a>
     <a class="a-hover" href="https://github.com/ysisrich/personal-navigation">
       <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysisrich&repo=picture-bed&theme=tokyonight&hide_border=true" />
     </a>
-</p>
+</p> -->
 
 <img  src="https://cdn.jsdelivr.net/gh/ysisrich/Assets/readme/readme.gif" />
