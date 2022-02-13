@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-    <img  style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=ysisrich&hide_title=true&theme=tokyonight&locale=cn&show_icons=true&line_height=22&hide_border=true&bg_color=DEG,#FA8BFF,#2BD2FF,#2BFF88" />
+    <img  style="width:450px;" src="https://github-readme-stats.vercel.app/api?username=ysisrich&hide_title=true&theme=tokyonight&locale=cn&show_icons=true&line_height=22&hide_border=true&bg_color=0,#FA8BFF,#2BD2FF,#2BFF88" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysisrich&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" />
 </p>
 
