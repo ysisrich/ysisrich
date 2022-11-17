@@ -7,12 +7,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 个人仓库：https://www.yangsong.cool
+- 🔭 个人仓库：https://www.yangsong.top
 - 🌱 牛逼组件库：https://ysisrich.github.io/niubilityUI/
-- 👯 个人论坛：http://bbs.yangsong.cool/
-- 😗 电影emo：http://emo.yangsong.cool
-- 🤔 个人博客：http://blog.yangsong.cool
-- 📆 git图床：https://ibed.yangsong.cool
+- 👯 个人论坛：http://bbs.yangsong.top/
+- 😗 电影emo：http://emo.yangsong.top
+- 🤔 个人博客：http://blog.yangsong.top
+- 📆 git图床：https://ibed.yangsong.top
 
 
 <p align="left">
